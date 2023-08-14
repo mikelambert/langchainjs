@@ -153,7 +153,7 @@ export class ChatAnthropic extends BaseChatModel implements AnthropicInput {
 
   maxTokensToSample = 2048;
 
-  modelName = "claude-v1";
+  modelName = "claude-2";
 
   invocationKwargs?: Kwargs;
 
